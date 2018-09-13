@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 0
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "833104312000-dlbn46o9r7eb1ss5m69f873gsdeddev9.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy_dKoiFTOxd3bDDUFdl8V6UKI1WTtmhg"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:833104312000:ios:9c14cf5c91384bac", 
+        "android_client_info": {
+          "package_name": "com.puzzlekingdom.firebasedemo"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "fir-demo-4feb4.appspot.com", 
+    "project_id": "fir-demo-4feb4", 
+    "firebase_url": "https://fir-demo-4feb4.firebaseio.com", 
+    "project_number": "833104312000"
+  }
+}
